@@ -16,7 +16,8 @@ Learning and exploring SPI
 
 ![SPI](https://github.com/user-attachments/assets/5a0dbcb6-0dd2-4c5a-94a6-ed3ddb38ab5a) - SPI Modes Timing diagram 
 
-# | Mode | CPOL | CPHA | First Edge       | Sampling Instant | Data Change     |
+  | Mode | CPOL | CPHA | First Edge       | Sampling Instant | Data Change     |
+  |------|------|------|------------------|------------------|-----------------|
   | 0    | 0    | 0    | Rising           | Rising           | Falling         |
   | 1    | 0    | 1    | Rising           | Falling          | Rising          |
   | 2    | 1    | 0    | Falling          | Falling          | Rising          |
